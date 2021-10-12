@@ -1,0 +1,13 @@
+package restfullAPI;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class RestfullApiAuthenticationJwtApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
